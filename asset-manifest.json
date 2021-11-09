@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/StarWarsEncyclopedy/static/css/main.940a7a34.chunk.css",
+    "main.js": "/StarWarsEncyclopedy/static/js/main.6faec64b.chunk.js",
+    "main.js.map": "/StarWarsEncyclopedy/static/js/main.6faec64b.chunk.js.map",
+    "runtime-main.js": "/StarWarsEncyclopedy/static/js/runtime-main.c9aa690e.js",
+    "runtime-main.js.map": "/StarWarsEncyclopedy/static/js/runtime-main.c9aa690e.js.map",
+    "static/js/2.f2c0f950.chunk.js": "/StarWarsEncyclopedy/static/js/2.f2c0f950.chunk.js",
+    "static/js/2.f2c0f950.chunk.js.map": "/StarWarsEncyclopedy/static/js/2.f2c0f950.chunk.js.map",
+    "index.html": "/StarWarsEncyclopedy/index.html",
+    "static/css/main.940a7a34.chunk.css.map": "/StarWarsEncyclopedy/static/css/main.940a7a34.chunk.css.map",
+    "static/js/2.f2c0f950.chunk.js.LICENSE.txt": "/StarWarsEncyclopedy/static/js/2.f2c0f950.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/StarWarsEncyclopedy/static/media/Starjedi.4c37e50c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c9aa690e.js",
+    "static/js/2.f2c0f950.chunk.js",
+    "static/css/main.940a7a34.chunk.css",
+    "static/js/main.6faec64b.chunk.js"
+  ]
+}
